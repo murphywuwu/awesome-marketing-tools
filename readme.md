@@ -95,6 +95,7 @@ Create, manage, and distribute content effectively.
 
 - [BuzzSumo](https://buzzsumo.com/) - Content research and influencer identification.
 - [Canva](https://www.canva.com/) - Graphic design platform for creating visual content.
+- [EasySociable](https://easysociable.com/?utm_source=awesome-marketing-tools&utm_medium=directory&utm_campaign=backlinks) - AI carousel maker that runs inside your coding agent for TikTok, Instagram & LinkedIn carousels.
 - [Grammarly](https://www.grammarly.com/) - Writing assistant and grammar checker.
 - [CoSchedule](https://coschedule.com/) - Marketing calendar and workflow management.
 - [Feedly](https://feedly.com/) - Content curation and RSS reader.
